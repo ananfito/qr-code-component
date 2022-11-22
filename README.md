@@ -24,7 +24,7 @@ A static webpage with a QR code component. This challenge came from [Frontend Me
 ### Links
 
 - Solution URL: [https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main](https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main)
-- Live Site URL: [https://ananfito.github.io/frontend-mentor/qr-code-component-main/](https://ananfito.github.io/frontend-mentor/qr-code-component-main/)
+- Live Site URL: [https://ananfito.github.io/qr-code-component/](https://ananfito.github.io/qr-code-component/)
 
 ## My process
 
