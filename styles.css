@@ -1,0 +1,62 @@
+/* Stylsheet for QR Code Component */
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --gray-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+  min-width: 375px;
+  max-width: 1440px;
+  height: 100vh;
+  background: var(--light-gray);
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h2 {
+  color: var(--dark-blue);
+}
+
+
+p {
+  color: var(--gray-blue);
+}
+
+.container {
+  width: 320px;
+  height: 500px;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+img {
+  width: 90%;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.text {
+  margin: 10px 15px 10px 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
