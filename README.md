@@ -23,7 +23,7 @@ A static webpage with a QR code component. This challenge came from [Frontend Me
 
 ### Links
 
-- Solution URL: [https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main](https://github.com/ananfito/frontend-mentor/tree/main/qr-code-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-friendly-solution-using-css-flexbox-ZWBJvCnbdV](https://www.frontendmentor.io/solutions/mobile-friendly-solution-using-css-flexbox-ZWBJvCnbdV)
 - Live Site URL: [https://ananfito.github.io/qr-code-component/](https://ananfito.github.io/qr-code-component/)
 
 ## My process
